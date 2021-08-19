@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Pacifico&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.contain {
+    height: 50vh;
+    width: 60vw;
+    background-color: gray;
+    color: #F3EBEB;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin: 139px 280px;
+}
+
+.current {
+    font-size: 32px;
+    position: relative;
+    top: 5vh;
+    left: 5vh;
+}
+#tim{
+    height: 7vh;
+    width: 31vw;
+    background-color:rgba(0, 0, 0, 0.527);
+    position: relative;
+    bottom: 1.2vh;
+    left: 53vh;
+    border-radius: 12px;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    color: black;
+}
+.contain p{
+    margin-left: 44px;
+    margin-top:71px;
+    font-size: 25px;
+    font-family: 'Pacifico', cursive;
+}
